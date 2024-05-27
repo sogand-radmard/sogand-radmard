@@ -3,7 +3,7 @@
 
 <div  align="center" >
 
-  [![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sogand-radmard&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sogand-radmard&theme=radical)](https://git.io/streak-stats)
